@@ -1,3 +1,7 @@
-﻿This is my first text file
+﻿เพิ่มข้อมูลใหม่
+This is my first text file
 
+เพิ่มเข้าไปอีก
 test
+
+ทดลองแก้ไฟล์ดู
