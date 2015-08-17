@@ -2,6 +2,6 @@
 This is my first text file
 
 เพิ่มเข้าไปอีก
-test
+tekst
 
 ทดลองแก้ไฟล์ดู
